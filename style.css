@@ -1,0 +1,208 @@
+.first>img{
+    border-radius: 50px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 17px;
+    border:2px solid rgb(211, 208, 208);  
+}
+.quotes>img{
+    position: absolute;
+    right: 50px;
+    height: 80px;
+    margin-top: 6px;
+  
+}
+.name1{
+    position: relative;
+    left: 17px;
+    top: 15px;
+}
+.quail1{
+    position: relative;
+    left: 17px;
+    top: 11px;
+    opacity: 50%;
+    font-size: 14px;
+    
+}
+.sub1{
+    clear: both;
+    margin-top: 35px;
+    font-size: 18px;
+    margin-left: 17px;
+    
+}
+.para1{
+    margin-top: 20px;
+    font-size: 12px;
+    opacity: 70%;
+    margin-left: 17px;
+}
+
+
+
+
+
+
+.second>img{
+    border-radius: 50px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 17px;
+    border:2px solid rgb(211, 208, 208);  
+}
+.name2{
+    position: relative;
+    left: 17px;
+    top: 15px;
+}
+.quail2{
+    position: relative;
+    left: 17px;
+    top: 11px;
+    opacity: 50%;
+    font-size: 14px;
+    
+}
+.sub2{
+    clear: both;
+    margin-top: 35px;
+    font-size: 18px;
+    margin-left: 17px;
+    
+}
+.para2{
+    margin-top: 20px;
+    font-size: 13px;
+    opacity: 70%;
+    margin-left: 17px;
+}
+
+
+
+
+
+
+
+.third>img{
+    border-radius: 50px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 17px;
+    border:2px solid rgb(211, 208, 208);  
+}
+.name3{
+    position: relative;
+    left: 17px;
+    top: 15px;
+}
+.quail3{
+    position: relative;
+    left: 17px;
+    top: 11px;
+    opacity: 50%;
+    font-size: 14px;
+    
+}
+.sub3{
+    clear: both;
+    margin-top: 35px;
+    font-size: 18px;
+    margin-left: 17px;
+    
+}
+.para3{
+    margin-top: 20px;
+    font-size: 12px;
+    opacity: 70%;
+    margin-left: 17px;
+}
+
+
+
+
+
+.fourth>img{
+    border-radius: 50px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 17px;
+    border:2px solid rgb(211, 208, 208);  
+}
+.name4{
+    position: relative;
+    left: 17px;
+    top: 15px;
+}
+.quail4{
+    position: relative;
+    left: 17px;
+    top: 11px;
+    opacity: 50%;
+    font-size: 14px;
+    
+}
+.sub4{
+    clear: both;
+    margin-top: 35px;
+    font-size: 17px;
+    margin-left: 17px;
+    
+}
+.para4{
+    margin-top: 20px;
+    font-size: 12.3px;
+    opacity: 70%;
+    margin-left: 17px;
+}
+
+
+
+
+
+
+
+.fifth>img{
+    border-radius: 50px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 17px;
+    border:2px solid rgb(211, 208, 208);  
+}
+.name5{
+    position: relative;
+    left: 17px;
+    top: 15px;
+}
+.quail5{
+    position: relative;
+    left: 17px;
+    top: 11px;
+    opacity: 50%;
+    font-size: 14px;
+    
+}
+.sub5{
+    clear: both;
+    margin-top: 35px;
+    font-size: 17px;
+    margin-left: 17px;
+    
+}
+.para5{
+    margin-top: 20px;
+    font-size: 12.4px;
+    opacity: 70%;
+    margin-left: 17px;
+}
+
+.author{
+    display: flex;
+    justify-content: center;
+}
+.link{
+    text-decoration: none;
+}
+
+
+
